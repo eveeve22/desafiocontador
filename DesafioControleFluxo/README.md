@@ -1,17 +1,22 @@
-## Getting Started
+## Desafio Contador
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio de desenvolver um contador em JAVA aplicando os conhecimentos adquiridos durante o curso 
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Estrutura
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Contem duas pastas por default:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src`: 
+- `lib`:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Os arquivos bytecode estão na pasta `bin` por default.
+
+
+
+
+
+
 
 ## Dependency Management
 
